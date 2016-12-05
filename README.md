@@ -1,8 +1,8 @@
 # 简介
-    本项目实现在Docker中配置Hadoop中的HDFS（暂未支持MapReduce）。主要内容如下：
-    1、介绍部署HDFS集群条件
-    2、介绍部署HDFS集群的的详细步骤
-    3、介绍镜像文件DockerFile的制作工程
+    本项目实现在Docker中配置Hadoop中的HDFS（暂未支持MapReduce）。主要内容如下：<br>
+    1、介绍部署HDFS集群条件<br>
+    2、介绍部署HDFS集群的的详细步骤<br>
+    3、介绍镜像文件DockerFile的制作工程<br>
 # Precondition（前提）
     using Ubuntu 16.04.1 LTS
     使用较新版本的Ubuntu（只要能够startCluster.sh启动脚本即可，或者可以修改该脚本）
